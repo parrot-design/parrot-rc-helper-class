@@ -1,6 +1,6 @@
 {
   "name": "@parrotjs/rc-helper-class",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "一个引入的scss工具类库",
   "main": "src/index.scss",
   "scripts": {
